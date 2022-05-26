@@ -6,6 +6,6 @@
 
 # Recent Projects
 These are projects I recently finished or am currently working on, check out their repositories!
-- NBA 2021-22 Season Dashboard
-- Twitter Weather Vane
+- [NBA 2021-22 Season Dashboard](https://github.com/ColinJoMurphy/NBA-Dashboard)
+- [Twitter Weather Vane](https://github.com/ColinJoMurphy/TwitterWeatherVane)
 
